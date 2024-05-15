@@ -1,0 +1,17 @@
+h1 {
+    font-size: 200%; 
+    color: navy; 
+    text-align: center;
+    }
+h2 {
+    font-size: 150%; 
+    color: red; 
+    padding-left: 15px;
+    }
+p,ul,li,td {
+    color: black; 
+    }
+a:link {
+    color: green;
+    text-decoration: underline;
+    }
